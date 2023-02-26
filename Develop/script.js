@@ -34,11 +34,11 @@ if(uppercaseQ == true){
 }
 
 if(numericQ == true){
-  combinedArray =combinedArray.concat(numbericArray)
+  combinedArray = combinedArray.concat(numbericArray)
 }
 
 if(specialQ == true){
-  combinedArray =combinedArray.concat(numbericArray)
+  combinedArray = combinedArray.concat(numbericArray)
 }
 }
 
