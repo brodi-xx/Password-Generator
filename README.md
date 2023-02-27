@@ -1,6 +1,8 @@
 # Password Generator Starter Code
 
-/* When I click the button it prompts me for password criteria
+In this assignment, I was asked to develop a random password generator based upon the following requirements:
+
+When I click the button it prompts me for password criteria
 
 <b><h2>Password criteria:</b></h2>
 <ul>Length</ul>
