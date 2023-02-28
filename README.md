@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-In this assignment, I was asked to develop a random password generator based upon the following requirements:
+In this assignment, I was asked to develop a random password generator based upon the following requirements below. I utilized a tutor, Brooke, and my personal TA - Gunner to help this project reach completion.
 
 When I click the button it prompts me for password criteria
 
