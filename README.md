@@ -23,3 +23,4 @@ When I click the button it prompts me for password criteria
 <ul>A password is given based on critieria input</ul>
 <ul>Password must be given in an alert or written to the page</ul>
 
+The completed project can be found <a href = "https://brodi-xx.github.io/Password-Generator/">here</a>
