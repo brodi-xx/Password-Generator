@@ -23,4 +23,6 @@ When I click the button it prompts me for password criteria
 <ul>A password is given based on critieria input</ul>
 <ul>Password must be given in an alert or written to the page</ul>
 
-The completed project can be found <a href = "https://brodi-xx.github.io/Password-Generator/">here</a>
+The completed project can be found <a href = "https://brodi-xx.github.io/Password-Generator/">here</a> and looks like this image:
+
+<img src = "https://github.com/brodi-xx/Password-Generator/blob/main/Screen%20Shot%202023-02-27%20at%206.16.59%20PM.png?raw=true">
